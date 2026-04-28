@@ -1,0 +1,35 @@
+# Build output
+bin/
+[Bb]in/
+obj/
+[Oo]bj/
+
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/
+
+# ReSharper
+_ReSharper*/
+*.ReSharper
+
+# Rider
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results from SDK
+[Bb]in/
+[Oo]bj/
+
+# NuGet
+packages/
+
+# Other common ignores
+*.log
+*.swp
+.DS_Store
+thumbs.db
